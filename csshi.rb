@@ -6,9 +6,9 @@ class Csshi < Formula
   include Language::Python::Shebang
 
   desc 'csshi - ClusterSSH for iTerm2'
-  homepage 'https://github.com/ilikejam/csshi'
-  url 'https://github.com/ilikejam/csshi/archive/refs/tags/v1.6.tar.gz'
-  sha256 '4de9fc64b78ae321e302440062c6848315dd397cc7705e4b75e43d2e79d6808c'
+  homepage 'https://github.com/aflat/csshi'
+  url 'https://github.com/aflat/csshi/archive/refs/tags/v1.6.1.tar.gz'
+  sha256 'ea2c9d212154b709da1d68c863868afcbcac45a73527ec92407db7628f10420a'
   license 'GPL-2.0-only'
 
   depends_on 'python@3.12'
